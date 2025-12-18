@@ -14,7 +14,7 @@ Responsive one-page agency landing page built with **HTML** and **CSS**.
 - Font Awesome
 
 ## Live Demo
-[(ضع رابط GitHub Pages هنا بعد تفعيله)
+[
 ](https://github.com/abdullahalhakim-14/leon-template)
 
 ## Run locally
